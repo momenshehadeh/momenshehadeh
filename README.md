@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Momen Shehadeh and I'm a Frontend Developer from Jordan</h2>
+###
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Momen Shehadeh and I'm a Frontend Developer from Jordan</p>
 
 ###
 
