@@ -31,9 +31,9 @@
 ###
 
 <div align="left">
-  <img src="https://www.youtube.com/@MomenShehadeh" height="35" alt="youtube logo"  />
-  <img src="https://www.instagram.com/momen.shehadeh" height="35" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/in/momen-shehadeh-11616b342" height="35" alt="linkedin logo"  />
+  <img src="https://www.youtube.com/@MomenShehadeh?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://www.instagram.com/momen.shehadeh?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://www.linkedin.com/in/momen-shehadeh-11616b342?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
