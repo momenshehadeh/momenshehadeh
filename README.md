@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
+<img align="right" height="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 
 ###
 
@@ -33,7 +33,8 @@
   <img width="12" />
 </div>
 
-### <hr> Follow me here 🚀  
+### Follow me here 🚀  
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momenshehadeh)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MomenShehadeh)  
